@@ -1,0 +1,142 @@
+============================================================
+   CYBER FORENSICS INVESTIGATION REPORT
+   Cyber Cell - Digital Evidence Analysis
+============================================================
+Case Number     : cc-2026-002
+Investigator    : Kajal
+Date & Time     : 2026-04-20 06:12:01.965360
+Case Description: UPI Phishing Fraud - Victim lost Rs 45000
+============================================================
+
+EXECUTIVE SUMMARY
+----------------------------------------
+Total Files Scanned  : 7
+Suspicious Files     : 3
+Clean Files          : 4
+
+SUSPICIOUS FILES (REQUIRE FURTHER ANALYSIS)
+----------------------------------------
+
+SUSPICIOUS FILE #1
+  File Name: suspicious_script.sh
+  Full Path: /home/kali/cyber_forensics/fake_case/suspect_device/suspicious_script.sh
+  Size (bytes): 0
+  Created: 2026-04-20 06:10:37.802566
+  Modified: 2026-04-20 06:10:37.802566
+  Accessed: 2026-04-20 06:10:37.802566
+  Permissions: 0o664
+  SHA256 Hash: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+  Suspicious: YES
+----------------------------------------
+
+SUSPICIOUS FILE #2
+  File Name: cleanup.bat
+  Full Path: /home/kali/cyber_forensics/fake_case/suspect_device/cleanup.bat
+  Size (bytes): 16
+  Created: 2026-04-20 06:10:37.802566
+  Modified: 2026-04-20 06:10:37.802566
+  Accessed: 2026-04-20 06:10:37.802566
+  Permissions: 0o664
+  SHA256 Hash: 1f33b5bca10d5cce81fe99d083e3caf55339f4ed394cc524ac2df1a743532469
+  Suspicious: YES
+----------------------------------------
+
+SUSPICIOUS FILE #3
+  File Name: payload.exe
+  Full Path: /home/kali/cyber_forensics/fake_case/suspect_device/payload.exe
+  Size (bytes): 0
+  Created: 2026-04-20 06:10:37.804856
+  Modified: 2026-04-20 06:10:37.804856
+  Accessed: 2026-04-20 06:10:37.804856
+  Permissions: 0o664
+  SHA256 Hash: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+  Suspicious: YES
+----------------------------------------
+
+
+FULL FILE LISTING
+----------------------------------------
+
+FILE #1
+  File Name: install_log.txt
+  Full Path: /home/kali/cyber_forensics/fake_case/suspect_device/install_log.txt
+  Size (bytes): 24
+  Created: 2026-04-20 06:10:37.802566
+  Modified: 2026-04-20 06:10:37.802566
+  Accessed: 2026-04-20 06:10:37.802566
+  Permissions: 0o664
+  SHA256 Hash: b5910f571f0f286b6a5825a51b06e76435b1ff364b2a5258059b26828b12ec0d
+  Suspicious: NO
+----------------------------------------
+
+FILE #2
+  File Name: suspicious_script.sh
+  Full Path: /home/kali/cyber_forensics/fake_case/suspect_device/suspicious_script.sh
+  Size (bytes): 0
+  Created: 2026-04-20 06:10:37.802566
+  Modified: 2026-04-20 06:10:37.802566
+  Accessed: 2026-04-20 06:10:37.802566
+  Permissions: 0o664
+  SHA256 Hash: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+  Suspicious: YES
+----------------------------------------
+
+FILE #3
+  File Name: contacts.csv
+  Full Path: /home/kali/cyber_forensics/fake_case/suspect_device/contacts.csv
+  Size (bytes): 71
+  Created: 2026-04-20 06:10:37.802566
+  Modified: 2026-04-20 06:10:37.802566
+  Accessed: 2026-04-20 06:10:37.802566
+  Permissions: 0o664
+  SHA256 Hash: 910c6d30d32306d5ce3ec5867fab4c4ababe768b88783224f3cf0c9de38401b3
+  Suspicious: NO
+----------------------------------------
+
+FILE #4
+  File Name: phishing_message.txt
+  Full Path: /home/kali/cyber_forensics/fake_case/suspect_device/phishing_message.txt
+  Size (bytes): 82
+  Created: 2026-04-20 06:10:37.802566
+  Modified: 2026-04-20 06:10:37.802566
+  Accessed: 2026-04-20 06:10:37.802566
+  Permissions: 0o664
+  SHA256 Hash: d53744628eca8c200cfd0768b9c6c45c9f9def6476ba223075434bf30895f96c
+  Suspicious: NO
+----------------------------------------
+
+FILE #5
+  File Name: transaction_log.txt
+  Full Path: /home/kali/cyber_forensics/fake_case/suspect_device/transaction_log.txt
+  Size (bytes): 93
+  Created: 2026-04-20 06:10:37.802566
+  Modified: 2026-04-20 06:10:37.802566
+  Accessed: 2026-04-20 06:10:37.796919
+  Permissions: 0o664
+  SHA256 Hash: 7c61761084e0d1f3dde7b86bea5c0c56551414be766d2ea79e584269c1fb17d2
+  Suspicious: NO
+----------------------------------------
+
+FILE #6
+  File Name: cleanup.bat
+  Full Path: /home/kali/cyber_forensics/fake_case/suspect_device/cleanup.bat
+  Size (bytes): 16
+  Created: 2026-04-20 06:10:37.802566
+  Modified: 2026-04-20 06:10:37.802566
+  Accessed: 2026-04-20 06:10:37.802566
+  Permissions: 0o664
+  SHA256 Hash: 1f33b5bca10d5cce81fe99d083e3caf55339f4ed394cc524ac2df1a743532469
+  Suspicious: YES
+----------------------------------------
+
+FILE #7
+  File Name: payload.exe
+  Full Path: /home/kali/cyber_forensics/fake_case/suspect_device/payload.exe
+  Size (bytes): 0
+  Created: 2026-04-20 06:10:37.804856
+  Modified: 2026-04-20 06:10:37.804856
+  Accessed: 2026-04-20 06:10:37.804856
+  Permissions: 0o664
+  SHA256 Hash: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+  Suspicious: YES
+----------------------------------------

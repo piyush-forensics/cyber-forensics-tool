@@ -1,0 +1,3 @@
+# No external libraries needed
+# Python 3.6+ required
+# Standard library only: os, hashlib, datetime, stat, math, json, csv, sys

@@ -38,7 +38,7 @@ python3 forensics_tool_final.py
 ```
 
 ```
-Investigator Name : Kajal
+Investigator Name : Piyush
 Case Number       : CC-2026-001
 Case Description  : UPI Phishing Fraud Investigation
 Folder to Scan    : /home/victim/downloads
@@ -104,5 +104,5 @@ This tool is designed for initial evidence triage and screening. Always work on 
 
 ## 👩‍💻 Built By
 
-**Kajal** | Cyber Security Student | 2026  
+**Piyush** | Cyber Security Student | 2026  
 Cyber Cell Internship Project

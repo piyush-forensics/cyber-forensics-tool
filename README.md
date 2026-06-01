@@ -106,3 +106,10 @@ This tool is designed for initial evidence triage and screening. Always work on 
 
 **Piyush** | Cyber Security Student | 2026  
 Cyber Cell Internship Project
+## Screenshots
+
+### Tool Running
+![Tool Running](screenshots/tool_running.png)
+
+### Report Generated
+![Report Generated](screenshots/report_generated.png)
